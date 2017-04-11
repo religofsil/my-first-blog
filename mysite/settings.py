@@ -25,7 +25,7 @@ SECRET_KEY = '@5#-*p334zden*lsn2wf=hu#*q+p)xevm6r$9v&hq$q+q^jm94'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['religofsil.pythonanywhere.com', '127.0.0.1', 'localhost']
 
 
 # Application definition
